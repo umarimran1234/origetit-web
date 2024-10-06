@@ -19,7 +19,7 @@ function Navbar() {
           <input
             type="text"
             placeholder="What news are you looking for?"
-            class="w-full   rounded-full focus:outline-none focus:ring-2 focus:ring-blue-500"
+            class="w-full   rounded-full focus:outline-none  text-1xl"
           />
         </div>
         <div className="flex gap-2">
